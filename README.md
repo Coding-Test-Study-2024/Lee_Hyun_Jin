@@ -43,7 +43,7 @@
 |-----|:------:|:---:|:---:|
 |프로그래머스|리코챗로봇|레벨2|
 |[1260](https://www.acmicpc.net/problem/1260)|DFS와 BFS|37%|쉬움|
-|[2644](https://www.acmicpc.net/problem/2644)|촌수계산|49%|
+|[2644](https://www.acmicpc.net/problem/2644)|촌수계산|49%||:heavy_check_mark:|
 |[2234](https://www.acmicpc.net/problem/2234)|성곽|47%|
 |[2606](https://www.acmicpc.net/problem/2606)|바이러스|45%|
 |[2178](https://www.acmicpc.net/problem/2178)|미로 탐색|43%|
