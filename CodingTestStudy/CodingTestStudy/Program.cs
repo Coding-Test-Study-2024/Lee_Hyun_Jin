@@ -6,8 +6,8 @@ namespace CodingTestStudy
     {
         static void Main(string[] args)
         {
-            Num_Of_Relatives obj = new Num_Of_Relatives();
-            obj.Run();
+           BOJ_11582 bOJ_11582 = new BOJ_11582();
+            bOJ_11582.Run();
         }
     }
 }
