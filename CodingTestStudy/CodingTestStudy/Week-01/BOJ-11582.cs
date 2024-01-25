@@ -10,15 +10,12 @@ namespace CodingTestStudy.Week_01
     {
         int[] arr;
         int worker;
-
-
         public void Run()
         {
             Input(); //입력
             MergeSort(0, arr.Count() - 1, 1); //분할정렬
             Out(); //출력
         }
-
 
         void Input()
         {
@@ -30,8 +27,6 @@ namespace CodingTestStudy.Week_01
             for (int i = 0; i < arraySize; i++)
                 arr[i] = int.Parse(str[i]);
         }
-
-
 
         void MergeSort(int start, int last,int count) //시작지점 ,종료지점 ,일하고있는 인원
         {
