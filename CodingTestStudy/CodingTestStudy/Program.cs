@@ -1,4 +1,5 @@
 ﻿using CodingTestStudy.Week_01;
+using CodingTestStudy.Week_03;
 
 namespace CodingTestStudy
 {
@@ -6,7 +7,7 @@ namespace CodingTestStudy
     {
         static void Main(string[] args)
         {
-           BOJ_11582 bOJ_11582 = new BOJ_11582();
+            BOJ_1780 bOJ_11582 = new BOJ_1780();
             bOJ_11582.Run();
         }
     }
